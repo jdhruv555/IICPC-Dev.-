@@ -1,0 +1,5 @@
+{
+  "name": "Sentinel Proctor Architect",
+  "description": "A dual-mode application: An AI-powered architect to design secure system-level proctoring solutions, and a high-fidelity frontend simulation of the proctoring kiosk interface.",
+  "requestFramePermissions": []
+}
