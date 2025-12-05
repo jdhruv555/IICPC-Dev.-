@@ -60,7 +60,7 @@ Sentinel Architect provides a comprehensive solution by:
 The application features a modern dark-themed interface with dual-mode functionality:
 
 <div align="center">
-  <img src="images/demo/Screenshot%202025-11-20%20at%201.18.41%20PM.png" alt="Main Interface - System Design Mode" width="800"/>
+  <img src="https://raw.githubusercontent.com/jdhruv555/IICPC-Dev.-/main/images/demo/Screenshot%202025-11-20%20at%201.18.41%20PM.png" alt="Main Interface - System Design Mode" width="800"/>
   <p><em>Main Interface: System Design Mode with Configuration Panel</em></p>
 </div>
 
@@ -70,7 +70,7 @@ The application features a modern dark-themed interface with dual-mode functiona
 The left panel allows users to configure platform targets, generation modes, and threat model scope:
 
 <div align="center">
-  <img src="images/demo/Screenshot%202025-11-20%20at%201.19.02%20PM.png" alt="Configuration Panel" width="600"/>
+  <img src="https://raw.githubusercontent.com/jdhruv555/IICPC-Dev.-/main/images/demo/Screenshot%202025-11-20%20at%201.19.02%20PM.png" alt="Configuration Panel" width="600"/>
   <p><em>Configuration Panel: Select OS Target (Windows/macOS/Linux) and Generation Mode (SPEC/CODE)</em></p>
 </div>
 
@@ -78,7 +78,7 @@ The left panel allows users to configure platform targets, generation modes, and
 When generating specifications, the system creates comprehensive technical documentation:
 
 <div align="center">
-  <img src="images/demo/Screenshot%202025-11-20%20at%201.19.31%20PM.png" alt="Specification Generation" width="800"/>
+  <img src="https://raw.githubusercontent.com/jdhruv555/IICPC-Dev.-/main/images/demo/Screenshot%202025-11-20%20at%201.19.31%20PM.png" alt="Specification Generation" width="800"/>
   <p><em>Specification Mode: Generating technical architecture documentation with Mermaid diagrams</em></p>
 </div>
 
@@ -86,7 +86,7 @@ When generating specifications, the system creates comprehensive technical docum
 Code mode generates platform-specific implementation code:
 
 <div align="center">
-  <img src="images/demo/Screenshot%202025-11-20%20at%201.19.47%20PM.png" alt="Code Generation" width="800"/>
+  <img src="https://raw.githubusercontent.com/jdhruv555/IICPC-Dev.-/main/images/demo/Screenshot%202025-11-20%20at%201.19.47%20PM.png" alt="Code Generation" width="800"/>
   <p><em>Code Generation Mode: Windows WFP implementation with security logic</em></p>
 </div>
 
@@ -94,7 +94,7 @@ Code mode generates platform-specific implementation code:
 During AI generation, the interface shows animated loading states:
 
 <div align="center">
-  <img src="images/demo/Screenshot%202025-11-20%20at%201.19.57%20PM.png" alt="Processing State" width="800"/>
+  <img src="https://raw.githubusercontent.com/jdhruv555/IICPC-Dev.-/main/images/demo/Screenshot%202025-11-20%20at%201.19.57%20PM.png" alt="Processing State" width="800"/>
   <p><em>Processing: System Architect Engine optimizing output artifacts</em></p>
 </div>
 
@@ -104,7 +104,7 @@ During AI generation, the interface shows animated loading states:
 The simulation kiosk shows a secure exam environment with Codeforces access:
 
 <div align="center">
-  <img src="images/demo/Screenshot%202025-11-20%20at%201.20.17%20PM.png" alt="Secure Kiosk Environment" width="800"/>
+  <img src="https://raw.githubusercontent.com/jdhruv555/IICPC-Dev.-/main/images/demo/Screenshot%202025-11-20%20at%201.20.17%20PM.png" alt="Secure Kiosk Environment" width="800"/>
   <p><em>Live Simulation: Secure environment with Codeforces access and system monitoring</em></p>
 </div>
 
@@ -112,12 +112,12 @@ The simulation kiosk shows a secure exam environment with Codeforces access:
 The system demonstrates real-time network filtering with whitelist enforcement:
 
 <div align="center">
-  <img src="images/demo/Screenshot%202025-11-20%20at%201.21.03%20PM.png" alt="Network Blocking" width="800"/>
+  <img src="https://raw.githubusercontent.com/jdhruv555/IICPC-Dev.-/main/images/demo/Screenshot%202025-11-20%20at%201.21.03%20PM.png" alt="Network Blocking" width="800"/>
   <p><em>Network Filtering: Discord.com blocked due to policy violation (Default Deny)</em></p>
 </div>
 
 <div align="center">
-  <img src="images/demo/Screenshot%202025-11-20%20at%201.27.38%20PM.png" alt="Network Allowed" width="800"/>
+  <img src="https://raw.githubusercontent.com/jdhruv555/IICPC-Dev.-/main/images/demo/Screenshot%202025-11-20%20at%201.27.38%20PM.png" alt="Network Allowed" width="800"/>
   <p><em>Network Filtering: Codeforces.com allowed (whitelisted domain)</em></p>
 </div>
 
@@ -125,12 +125,12 @@ The system demonstrates real-time network filtering with whitelist enforcement:
 The system detects and responds to security threats in real-time:
 
 <div align="center">
-  <img src="images/demo/Screenshot%202025-11-20%20at%201.33.24%20PM.png" alt="Single Threat Detection" width="800"/>
+  <img src="https://raw.githubusercontent.com/jdhruv555/IICPC-Dev.-/main/images/demo/Screenshot%202025-11-20%20at%201.33.24%20PM.png" alt="Single Threat Detection" width="800"/>
   <p><em>Threat Detection: Calculator.exe detected as suspicious during exam session</em></p>
 </div>
 
 <div align="center">
-  <img src="images/demo/Screenshot%202025-11-20%20at%201.34.42%20PM.png" alt="Multiple Threat Detection" width="800"/>
+  <img src="https://raw.githubusercontent.com/jdhruv555/IICPC-Dev.-/main/images/demo/Screenshot%202025-11-20%20at%201.34.42%20PM.png" alt="Multiple Threat Detection" width="800"/>
   <p><em>Multiple Threats: Calc.exe and SnippingTool.exe detected simultaneously</em></p>
 </div>
 
@@ -138,7 +138,7 @@ The system detects and responds to security threats in real-time:
 When threats are detected, the system enters lockdown mode:
 
 <div align="center">
-  <img src="images/demo/Screenshot%202025-11-20%20at%201.36.54%20PM.png" alt="Security Lockdown" width="800"/>
+  <img src="https://raw.githubusercontent.com/jdhruv555/IICPC-Dev.-/main/images/demo/Screenshot%202025-11-20%20at%201.36.54%20PM.png" alt="Security Lockdown" width="800"/>
   <p><em>Security Lockdown: System compromised - unauthorized processes detected</em></p>
 </div>
 
@@ -146,25 +146,25 @@ When threats are detected, the system enters lockdown mode:
 
 **Chrome Browser Detection:**
 <div align="center">
-  <img src="images/demo/Screenshot%202025-11-20%20at%201.37.17%20PM.png" alt="Chrome Threat" width="800"/>
+  <img src="https://raw.githubusercontent.com/jdhruv555/IICPC-Dev.-/main/images/demo/Screenshot%202025-11-20%20at%201.37.17%20PM.png" alt="Chrome Threat" width="800"/>
   <p><em>Threat: Chrome.exe detected - unauthorized browser activity blocked</em></p>
 </div>
 
 **Cheat Engine Detection:**
 <div align="center">
-  <img src="images/demo/Screenshot%202025-11-20%20at%201.37.31%20PM.png" alt="Cheat Engine Threat" width="800"/>
+  <img src="https://raw.githubusercontent.com/jdhruv555/IICPC-Dev.-/main/images/demo/Screenshot%202025-11-20%20at%201.37.31%20PM.png" alt="Cheat Engine Threat" width="800"/>
   <p><em>Critical Threat: CheatEngine.exe detected - memory manipulation tool</em></p>
 </div>
 
 **Discord Communication Tool:**
 <div align="center">
-  <img src="images/demo/Screenshot%202025-11-20%20at%201.39.09%20PM.png" alt="Discord Threat" width="800"/>
+  <img src="https://raw.githubusercontent.com/jdhruv555/IICPC-Dev.-/main/images/demo/Screenshot%202025-11-20%20at%201.39.09%20PM.png" alt="Discord Threat" width="800"/>
   <p><em>Threat: Discord.exe detected - communication platform violation</em></p>
 </div>
 
 **System Process Anomalies:**
 <div align="center">
-  <img src="images/demo/Screenshot%202025-11-20%20at%201.39.23%20PM.png" alt="Registry Process Threat" width="800"/>
+  <img src="https://raw.githubusercontent.com/jdhruv555/IICPC-Dev.-/main/images/demo/Screenshot%202025-11-20%20at%201.39.23%20PM.png" alt="Registry Process Threat" width="800"/>
   <p><em>Anomaly Detection: Suspicious Registry process detected</em></p>
 </div>
 
@@ -172,13 +172,13 @@ When threats are detected, the system enters lockdown mode:
 
 #### Real-Time Kernel Event Logging
 <div align="center">
-  <img src="images/demo/Screenshot%202025-11-20%20at%201.33.24%20PM.png" alt="Kernel Event Logs" width="600"/>
+  <img src="https://raw.githubusercontent.com/jdhruv555/IICPC-Dev.-/main/images/demo/Screenshot%202025-11-20%20at%201.33.24%20PM.png" alt="Kernel Event Logs" width="600"/>
   <p><em>Kernel Events: Real-time security event logging with color-coded severity levels</em></p>
 </div>
 
 #### Chaos Monkey - Threat Injection
 <div align="center">
-  <img src="images/demo/Screenshot%202025-11-20%20at%201.36.54%20PM.png" alt="Chaos Monkey Panel" width="400"/>
+  <img src="https://raw.githubusercontent.com/jdhruv555/IICPC-Dev.-/main/images/demo/Screenshot%202025-11-20%20at%201.36.54%20PM.png" alt="Chaos Monkey Panel" width="400"/>
   <p><em>Chaos Monkey: Simulate threat injection for testing security responses</em></p>
 </div>
 
