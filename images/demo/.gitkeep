@@ -1,0 +1,21 @@
+# Demo Screenshots
+
+Add your demo screenshots here with the following naming convention:
+- demo-main-interface.png
+- demo-config-panel.png
+- demo-spec-generation.png
+- demo-code-generation.png
+- demo-processing.png
+- demo-secure-kiosk.png
+- demo-network-blocked.png
+- demo-network-allowed.png
+- demo-threat-detection-single.png
+- demo-threat-detection-multiple.png
+- demo-security-lockdown.png
+- demo-threat-chrome.png
+- demo-threat-cheat-engine.png
+- demo-threat-discord.png
+- demo-threat-registry.png
+- demo-kernel-logs.png
+- demo-chaos-monkey.png
+

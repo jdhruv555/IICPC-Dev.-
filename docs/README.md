@@ -1,10 +1,12 @@
 # Documentation Assets
 
-This directory contains screenshots and demo images for the Sentinel Architect project.
+This directory contains documentation files for the Sentinel Architect project.
 
-## Image Files
+## Demo Screenshots
 
-Place your screenshot files in this directory with the following naming convention:
+Demo screenshots should be placed in the `images/demo/` directory at the project root (not in this docs folder).
+
+See `images/demo/.gitkeep` for the complete list of image files needed.
 
 - `demo-main-interface.png` - Main application interface
 - `demo-config-panel.png` - Configuration panel view
