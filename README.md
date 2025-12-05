@@ -57,12 +57,14 @@ Sentinel Architect provides a comprehensive solution by:
 
 ## 🎬 Demo & Screenshots
 
+> **Note**: Demo screenshots are available in the `images/demo/` directory. The images below reference the expected filenames. You can view all available screenshots in the [images/demo directory](images/demo/).
+
 ### Main Interface
 
 The application features a modern dark-themed interface with dual-mode functionality:
 
 <div align="center">
-  <img src="images/demo/demo-main-interface.png" alt="Main Interface - System Design Mode" width="800"/>
+  <img src="images/demo/Screenshot%202025-11-20%20at%201.18.41%20PM.png" alt="Main Interface - System Design Mode" width="800"/>
   <p><em>Main Interface: System Design Mode with Configuration Panel</em></p>
 </div>
 
@@ -203,7 +205,16 @@ When threats are detected, the system enters lockdown mode:
 
 ---
 
-**Note**: To add your screenshots, place image files in the `images/demo/` directory with the naming convention shown above. Recommended image format: PNG with 800px width for optimal display. The images will be automatically displayed in the README once added to the repository.
+**Note**: Demo screenshots have been added to the `images/demo/` directory. The images are now available and will display in the README. If you'd like to rename them to match the expected naming convention (e.g., `demo-main-interface.png`), you can do so and update the image paths in this README accordingly.
+
+**Available Screenshots**: 15 demo screenshots are currently in the repository showing various features of the application including:
+- System Design Mode interface
+- Configuration panels
+- Architecture generation outputs
+- Live Simulation Mode
+- Network filtering demonstrations
+- Threat detection scenarios
+- Security lockdown states
 
 ---
 
